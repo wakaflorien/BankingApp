@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\NIYONGABO\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\NIYONGABO\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Superbank.-377414829.00" t="ExcludeRecursive" />
+    <e p="C:\Users\NIYONGABO\RiderProjects\Superbank" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Superbank" t="IncludeRecursive">
+        <e p="BankAccount.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Superbank.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Superbank.csproj" t="IncludeRecursive" />
+        <e p="Transaction.cs" t="Include" />
+      </e>
+      <e p="Superbank.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
