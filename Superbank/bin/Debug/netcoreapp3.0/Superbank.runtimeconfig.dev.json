@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\NIYONGABO\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\NIYONGABO\\.nuget\\packages"
+      "/home/waka/.dotnet/store/|arch|/|tfm|",
+      "/home/waka/.nuget/packages"
     ]
   }
 }

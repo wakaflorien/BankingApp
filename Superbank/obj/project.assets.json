@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\NIYONGABO\\.nuget\\packages\\": {}
+    "/home/waka/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NIYONGABO\\RiderProjects\\Superbank\\Superbank\\Superbank.csproj",
+      "projectUniqueName": "/home/waka/RiderProjects/BankingApp/Superbank/Superbank.csproj",
       "projectName": "Superbank",
-      "projectPath": "C:\\Users\\NIYONGABO\\RiderProjects\\Superbank\\Superbank\\Superbank.csproj",
-      "packagesPath": "C:\\Users\\NIYONGABO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NIYONGABO\\RiderProjects\\Superbank\\Superbank\\obj\\",
+      "projectPath": "/home/waka/RiderProjects/BankingApp/Superbank/Superbank.csproj",
+      "packagesPath": "/home/waka/.nuget/packages/",
+      "outputPath": "/home/waka/RiderProjects/BankingApp/Superbank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\NIYONGABO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/waka/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "projectReferences": {}
         }
       },
@@ -41,16 +42,38 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/waka/.dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
       }
     }
   }
