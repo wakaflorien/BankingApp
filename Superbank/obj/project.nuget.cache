@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gj9WoVyhBk+ursqUVge0B7MmMqxfZMQWo3A3u5kL9XLKxGtfQIfsc+9mI2IAXjg7dnesrBcTI/PAvq/tWtZ5OA==",
+  "success": true,
+  "projectFilePath": "/home/waka/RiderProjects/BankingApp/Superbank/Superbank.csproj",
+  "expectedPackageFiles": [
+    "/home/waka/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/waka/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/home/waka/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.0.3/microsoft.netcore.app.host.linux-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
