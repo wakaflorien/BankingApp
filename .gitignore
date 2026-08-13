@@ -1,2 +1,4 @@
 .idea/
 .gitignore
+config.bat
+node_modules
